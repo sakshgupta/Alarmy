@@ -1,3 +1,5 @@
+![Alarmy](https://socialify.git.ci/sakshgupta/Alarmy/image?description=1&font=Bitter&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark)
+
 # Alarmy
 A Personalized abd Automated Alarm Bot.
 It basically takes input from your microphone and does the command on basis of your instructions.
